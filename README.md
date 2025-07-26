@@ -7,6 +7,6 @@
 ---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chuthimai)
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=chuthimai&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chuthimai&theme=flat&column=5&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 
